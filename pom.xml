@@ -11,6 +11,7 @@
     <modules>
         <module>mockitoDeepInject</module>
         <module>mockStaticMethod</module>
+        <module>dumbsterSmtpTest</module>
     </modules>
 
 

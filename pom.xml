@@ -13,6 +13,7 @@
         <module>mockStaticMethod</module>
         <module>dumbsterSmtpTest</module>
         <module>mockServer</module>
+        <module>xmlunit</module>
     </modules>
 
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dumbsterSmtpTest/dumbsterSmtpTest.iml" filepath="$PROJECT_DIR$/dumbsterSmtpTest/dumbsterSmtpTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/howToTestIt.iml" filepath="$PROJECT_DIR$/howToTestIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockServer/mockServer.iml" filepath="$PROJECT_DIR$/mockServer/mockServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockStaticMethod/mockStaticMethod.iml" filepath="$PROJECT_DIR$/mockStaticMethod/mockStaticMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mockito/mockitoDeepInject.iml" filepath="$PROJECT_DIR$/mockito/mockitoDeepInject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restcommunication/restcommunication.iml" filepath="$PROJECT_DIR$/restcommunication/restcommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xmlunit/xmlunit.iml" filepath="$PROJECT_DIR$/xmlunit/xmlunit.iml" />
+    </modules>
+  </component>
+</project>
